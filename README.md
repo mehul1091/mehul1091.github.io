@@ -1,6 +1,6 @@
 # Mehul Agarwaal
 
-Software Engineering Leader with **12+ years** of experience in **Java development, Agile methodologies and Scrum leadership**. Proven track record of leading cross-functional teams (leading developers and QA engineers), driving scalable backend systems, and delivering high-impact solutions in Agile environments.
+Software Engineering Leader with **12+ years** of experience in **Software development, Agile methodologies and Scrum leadership**. Proven track record of leading cross-functional teams (leading developers and QA engineers), driving scalable backend systems, and delivering high-impact solutions in Agile environments.
 
 #### Current Location: Bengaluru, India
 
